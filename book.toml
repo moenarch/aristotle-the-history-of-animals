@@ -1,0 +1,6 @@
+[book]
+authors = ["Moenarch"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The History of Animals"
